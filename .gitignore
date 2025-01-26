@@ -1,0 +1,33 @@
+# Ignorar la carpeta lib donde está el SDK de JavaFX
+/lib/
+
+# Ignorar la carpeta de compilación bin
+/bin/
+
+# Ignorar archivos temporales creados por el sistema operativo
+*.log
+*.tmp
+*.swp
+
+# Ignorar configuraciones específicas de IDEs (Eclipse, IntelliJ, etc.)
+*.iml
+.idea/
+.vscode/
+*.class
+
+# Ignorar archivos comprimidos o generados
+*.jar
+*.war
+*.zip
+
+# Ignorar configuraciones específicas de Maven o Gradle (si los usas)
+target/
+*.gradle
+.gradle/
+
+# Ignorar configuraciones de tu entorno personal
+*.DS_Store
+Thumbs.db
+
+.vscode/
+.metadata/
