@@ -1,4 +1,4 @@
-package com.tictactoe;
+package com.tictactoe3d;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;
